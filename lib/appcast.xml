@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.w3.org/2007/XMLSchema-versioning">
+    <channel>
+        <title>App Updates</title>
+        <link>https://document.connecttechnology.io/api/files/2</link>
+        <description>Latest updates for the app</description>
+        <item>
+            <title>Version 1.0.5</title>
+            <description>Bug fixes and performance improvements.</description>
+            <link>https://document/api/files/2</link>
+            <enclosure url="https://document.connecttechnology.io/api/files/2" length="12345" type="application/vnd.android.package-archive" sparkle:version="1.0.5" sparkle:os="android"/>
+            <pubDate>Wed, 30 Mar 2024 12:00:00 +0000</pubDate>
+            <version>1.0.5</version>
+            <minosversion>1.0.0</minosversion>
+        </item>
+    </channel>
+</rss>
